@@ -15,5 +15,10 @@ This is [Project 04] of [CSE.30341.FA24].
 
 > Describe any known errors, bugs, or deviations from the requirements.
 
+## Acknowledgments
+
+> List anyone you collaborated with or received help from (including TAs, other
+students, and AI tools)
+
 [Project 04]:       https://www3.nd.edu/~pbui/teaching/cse.30341.fa24/project04.html
 [CSE.30341.FA24]:   https://www3.nd.edu/~pbui/teaching/cse.30341.fa24/
